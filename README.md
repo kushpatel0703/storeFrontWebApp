@@ -2,7 +2,7 @@
 ### Objective
 I initally began this as a way for me to gain a better understanding of front end development using Python and Django as well as their integration with HTML/CSS/JS based website templates. This ultimately turned into a free-time project just to explore various different elemnts of these technologies.
 ### Description
-This project is a webapp that emulates an online marketplace with basic features. These include a shopping cart feature, bulk discounts, item display, and database maintenance for invetory and pricing of the products. 
+This project is a webapp that emulates an online marketplace with basic features. These include a shopping cart feature, bulk discounts, item display, and database maintenance for inventory and pricing of the products. 
  ### Technology
  - HTML/CSS/JS courtesy of bootstrap for website templates
  - Python3 as the base language
